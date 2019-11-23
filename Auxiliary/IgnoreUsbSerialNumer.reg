@@ -1,0 +1,53 @@
+Windows Registry Editor Version 5.00
+
+; IgnoreHWSerNum{VID}{PID}
+;QDloader
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum05C69008"=hex:01
+
+;Fastboot
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum18D1D00D"=hex:01
+
+;Android Factory
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum05C69025"=hex:01
+
+;Android GMS
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum0C2E0BA2"=hex:01
+
+;Android non-GMS
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum05C6F003"=hex:01
+
+;WE8H Manufacturing SW KDNET
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum045E0644"=hex:01
+
+;WE8H Manufacturing SW Qualcomm
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum05C69001"=hex:01
+
+;WE8H Production SW
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum045EF0CA"=hex:01
+
+;WE8H Retail SW
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum045EF0CA"=hex:01
+
+;Helsinki Customer
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum05C6319B"=hex:01
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum05C69039"=hex:01
+
+;USB Ethetnet Adapter - LAN9500
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum04249E00"=hex:01
+
+;USB Ethernet Adapter - AX88179
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags]
+"IgnoreHWSerNum0B951790"=hex:01
